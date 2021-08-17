@@ -6,7 +6,7 @@ There are 3 elements to this studyathon:
 2. Assessing the outcomes of proximal row carpectomy - patient reported pain and hand function (led by Xpert clinics and Erasmus MC)
 3. Characterising the patients proceeding to intervention for wrist arthritis, and assessing the serious adverse events associated with intervention (led by the OHDSI community)
 
-*All 3 parts aim to contribute equally address the central research question and support each other through their heterogeneity*
+*All 3 parts aim to contribute equally address the central research question*
 
 # OHDSI study- Characterisation
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
