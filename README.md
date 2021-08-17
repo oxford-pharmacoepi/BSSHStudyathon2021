@@ -8,7 +8,7 @@ There are 3 elements to this studyathon:
 
 *All 3 parts aim to contribute equally address the central research question*
 
-# OHDSI study- Characterisation
+# 3. OHDSI study- Characterisation
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
 - Analytics use case(s): **Characterization**
