@@ -8,6 +8,7 @@ There are 3 elements to this studyathon:
 
 *All 3 parts aim to contribute equally address the central research question and support each other through heterogeneity*
 
+# OHDSI study- Characterisation
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
 - Analytics use case(s): **Characterization**
@@ -21,7 +22,6 @@ There are 3 elements to this studyathon:
 - Publications: ** **
 - Results explorer: 
 
-# Cohort Diagnostics
 If you are undertaking cohort diagnostics for the first time, you may need set up your environment using the instructions given in the [HADES installation guide](https://ohdsi.github.io/Hades/rSetup.html). To run the study you will need to load the package, enter the RProj, and build it. Once built, you will need to open the extras/CodeToRun.R file and enter your database connection details, where you want to save your results locally, and so on (see instructions in the file). In this same file you can then run the study, view the results locally in a shiny application, and share your results.
 
 ## Requirements
