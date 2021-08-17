@@ -1,5 +1,5 @@
 # BSSHStudyathon2021 8th September 2021, Oxford
-An international study characterising patients undergoing surgery for wrist arthritis and its outcomes
+*An international study characterising patients undergoing surgery for wrist arthritis and its outcomes*
 
 There are 3 elements to this studyathon:
 1. Appraising the literature for what is already known within systematic review (led by researchers from NDORMS and University of Leeds)
