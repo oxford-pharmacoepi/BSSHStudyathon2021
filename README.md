@@ -1,4 +1,4 @@
-# BSSHStudyathon2021 8th September 2021, Oxford
+# BSSH Studyathon 8th September 2021, Oxford
 *An international study characterising patients undergoing surgery for wrist arthritis and its outcomes*
 
 There are 3 elements to this studyathon:
