@@ -1,1 +1,19 @@
 cohortName,ruleSequence,ruleName,cohortId
+[BSSH Studyathon] PartialWristArthrodesis +2 missing codes and 365d prior obs and prior arthritis,0,Prior Wrist Arthritis,2766
+[BSSH Studyathon] PartialWristArthrodesis with 365d prior obs 2,0,Adults only,2804
+[BSSH Studyathon] PartialWristArthrodesis2 with bleeding within 30d,0,Adults only ,2805
+[BSSH Studyathon] PartialWristArthrodesis2 with bleeding within 30d,1,bleeding event within 30d,2805
+[BSSH Studyathon] PartialWristArthrodesis2 with hospitalisation within 30d,0,Adults only ,2807
+[BSSH Studyathon] PartialWristArthrodesis2 with hospitalisation within 30d,1,hospitalisation,2807
+[BSSH Studyathon] PartialWristArthrodesis2 with VTE in 30d,0,Adults only ,2801
+[BSSH Studyathon] PartialWristArthrodesis2 with VTE in 30d,1,VTE within 30d,2801
+[BSSH Studyathon] PartialWristArthrodesis2,0,Adults only ,2808
+[BSSH Studyathon] ProximalRowCarpectomy w 365d prior obs 2,0,Adults only,2803
+[BSSH Studyathon] ProximalRowCarpectomy w 365d prior obs and prior wrist arthritis,0,Prior Wrist Arthritis,2771
+[BSSH Studyathon] ProximalRowCarpectomy2 with bleeding in 30d,0,Adults only,2800
+[BSSH Studyathon] ProximalRowCarpectomy2 with bleeding in 30d,1,bleeding in 30d,2800
+[BSSH Studyathon] ProximalRowCarpectomy2 with hospitalisation in 30d,0,Adults only,2802
+[BSSH Studyathon] ProximalRowCarpectomy2 with hospitalisation in 30d,1,hospitalisation in 30d,2802
+[BSSH Studyathon] ProximalRowCarpectomy2 with VTE in 30d,0,Adults only,2799
+[BSSH Studyathon] ProximalRowCarpectomy2 with VTE in 30d,1,bleeding in 30d,2799
+[BSSH Studyathon] ProximalRowCarpectomy2,0,Adults only,2806

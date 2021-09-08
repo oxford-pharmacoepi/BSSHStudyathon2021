@@ -1,4 +1,33 @@
-"atlasId","atlasName","cohortId","name"
-547,"WristArthritis",547,"WristArthritis"
-548,"PWA",548,"PWA"
-549,"PRC",549,"PRC"
+atlasId,atlasName,cohortId,name
+2808,[BSSH Studyathon] PartialWristArthrodesis2,2808,[BSSH Studyathon] PartialWristArthrodesis2
+2807,[BSSH Studyathon] PartialWristArthrodesis2 with hospitalisation within 30d,2807,[BSSH Studyathon] PartialWristArthrodesis2 with hospitalisation within 30d
+2806,[BSSH Studyathon] ProximalRowCarpectomy2,2806,[BSSH Studyathon] ProximalRowCarpectomy2
+2805,[BSSH Studyathon] PartialWristArthrodesis2 with bleeding within 30d,2805,[BSSH Studyathon] PartialWristArthrodesis2 with bleeding within 30d
+2804,[BSSH Studyathon] PartialWristArthrodesis with 365d prior obs 2,2804,[BSSH Studyathon] PartialWristArthrodesis with 365d prior obs 2
+2803,[BSSH Studyathon] ProximalRowCarpectomy w 365d prior obs 2,2803,[BSSH Studyathon] ProximalRowCarpectomy w 365d prior obs 2
+2802,[BSSH Studyathon] ProximalRowCarpectomy2 with hospitalisation in 30d,2802,[BSSH Studyathon] ProximalRowCarpectomy2 with hospitalisation in 30d
+2801,[BSSH Studyathon] PartialWristArthrodesis2 with VTE in 30d,2801,[BSSH Studyathon] PartialWristArthrodesis2 with VTE in 30d
+2800,[BSSH Studyathon] ProximalRowCarpectomy2 with bleeding in 30d,2800,[BSSH Studyathon] ProximalRowCarpectomy2 with bleeding in 30d
+2799,[BSSH Studyathon] ProximalRowCarpectomy2 with VTE in 30d,2799,[BSSH Studyathon] ProximalRowCarpectomy2 with VTE in 30d
+2770,[BSSH Studyathon] ProximalRowCarpectomy with 365d prior obs,2770,[BSSH Studyathon] ProximalRowCarpectomy with 365d prior obs
+2771,[BSSH Studyathon] ProximalRowCarpectomy w 365d prior obs and prior wrist arthritis,2771,[BSSH Studyathon] ProximalRowCarpectomy w 365d prior obs and prior wrist arthritis
+2766,[BSSH Studyathon] PartialWristArthrodesis +2 missing codes and 365d prior obs and prior arthritis,2766,[BSSH Studyathon] PartialWristArthrodesis +2 missing codes and 365d prior obs and prior arthritis
+2765,[BSSH Studyathon] PartialWristArthrodesis +2 missing codes,2765,[BSSH Studyathon] PartialWristArthrodesis +2 missing codes
+2759,[BSSH Studyathon] Incident Wrist Denervation with second diagnosis 31-365 after first diagnosis v3,2759,[BSSH Studyathon] Incident Wrist Denervation with second diagnosis 31-365 after first diagnosis v3
+2758,[BSSH Studyathon] Incident Wrist Denervation v2,2758,[BSSH Studyathon] Incident Wrist Denervation v2
+2740,[BSSH Studyathon] Incident Wrist Denervation with second diagnosis 31-365 after first diagnosis v2,2740,[BSSH Studyathon] Incident Wrist Denervation with second diagnosis 31-365 after first diagnosis v2
+2544,[BSSH Studyathon] Incident Wrist Denervation,2544,[BSSH Studyathon] Incident Wrist Denervation
+2756,[BSSH Studyathon] Incident Wrist Arthroplasty correcting for index date misclassification,2756,[BSSH Studyathon] Incident Wrist Arthroplasty correcting for index date misclassification
+2739,[BSSH Studyathon] Incident Wrist Arthroplasty with second diagnosis 31-365 after first diagnosis v2,2739,[BSSH Studyathon] Incident Wrist Arthroplasty with second diagnosis 31-365 after first diagnosis v2
+2547,[BSSH Studyathon] Incident Wrist Arthroplasty with second diagnosis 31-365 after first diagnosis,2547,[BSSH Studyathon] Incident Wrist Arthroplasty with second diagnosis 31-365 after first diagnosis
+2546,[BSSH Studyathon] Incident Wrist Arthroplasty,2546,[BSSH Studyathon] Incident Wrist Arthroplasty
+2545,[BSSH Studyathon] Incident Wrist Denervation with second diagnosis 31-365 after first diagnosis,2545,[BSSH Studyathon] Incident Wrist Denervation with second diagnosis 31-365 after first diagnosis
+2543,[BSSH Studyathon] Incident Wrist Arthritis correcting for index date misclassification,2543,[BSSH Studyathon] Incident Wrist Arthritis correcting for index date misclassification
+2542,[BSSH Studyathon] Incident Wrist Arthritis 2X correcting for index date misclassification,2542,[BSSH Studyathon] Incident Wrist Arthritis 2X correcting for index date misclassification
+2539,[BSSH Studyathon] Incident Wrist Arthritis with second diagnosis 31-365 after first diagnosis,2539,[BSSH Studyathon] Incident Wrist Arthritis with second diagnosis 31-365 after first diagnosis
+2537,[BSSH Studyathon] Incident Wrist Arthritis,2537,[BSSH Studyathon] Incident Wrist Arthritis
+2502,[BSSH Studyathon] WristDenervation,2502,[BSSH Studyathon] WristDenervation
+2501,[BSSH Studyathon] WristArthroplasty,2501,[BSSH Studyathon] WristArthroplasty
+2500,[BSSH Studyathon] WristArthritis,2500,[BSSH Studyathon] WristArthritis
+2499,[BSSH Studyathon] ProximalRowCarpectomy,2499,[BSSH Studyathon] ProximalRowCarpectomy
+2498,[BSSH Studyathon] PartialWristArthrodesis,2498,[BSSH Studyathon] PartialWristArthrodesis
