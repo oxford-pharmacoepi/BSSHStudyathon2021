@@ -16,21 +16,21 @@
 
 # Format and check code ---------------------------------------------------
 OhdsiRTools::formatRFolder()
-OhdsiRTools::checkUsagePackage("examplePackage")
+OhdsiRTools::checkUsagePackage("WristArthritis")
 OhdsiRTools::updateCopyrightYearFolder()
 
 # Create manual -----------------------------------------------------------
-shell("rm extras/examplePackage.pdf")
-shell("R CMD Rd2pdf ./ --output=extras/examplePackage.pdf")
-
+shell("rm extras/WristArthritis.pdf")
+shell("R CMD Rd2pdf ./ --output=extras/WristArthritis.pdf")
 
 # Insert cohort definitions from ATLAS into package -----------------------
+ROhdsiWebApi::authorizeWebApi(baseUrl = Sys.getenv("ohdsiBaseUrl"), "windows")
 ROhdsiWebApi::insertCohortDefinitionSetInPackage(fileName = "inst/settings/CohortsToCreate.csv",
                                                  baseUrl = Sys.getenv("ohdsiBaseUrl"),
                                                  insertTableSql = TRUE,
                                                  insertCohortCreationR = TRUE,
                                                  generateStats = TRUE,
-                                                 packageName = "examplePackage")
+                                                 packageName = "WristArthritis")
 
 # Store environment in which the study was executed -----------------------
-OhdsiRTools::insertEnvironmentSnapshotInPackage("examplePackage")
+OhdsiRTools::insertEnvironmentSnapshotInPackage("WristArthritis")
